@@ -1,0 +1,3 @@
+# ActionScript Array Modification During Loop Iteration Bug
+
+This repository demonstrates a common issue in ActionScript when modifying an array while iterating over it using a `for` loop.  The example shows how removing an element during iteration can cause the loop to skip elements and produce unexpected results.  The solution provides a corrected approach using a `while` loop to handle dynamic array changes safely. 
